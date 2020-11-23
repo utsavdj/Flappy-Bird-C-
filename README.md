@@ -1,2 +1,2 @@
 # Flappy Bird in C#
-Open the .exe file to start the app
+Open the FlappyBird.exe file to start the app
